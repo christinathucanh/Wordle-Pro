@@ -1,4 +1,3 @@
-# ios-week2-project
 # Project 2 - *Wordle*
 
 Submitted by: **Anh Thuc Vu**
