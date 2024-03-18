@@ -14,15 +14,7 @@ The following **required** functionality is completed:
 - [ x] User can change the numbers of rows on the board (how many guesses allowed)
 - [ x] User can select a new themed set to pull the goal word from
 - [ x] User can select "alien wordle", causing the goal word to change after each guess
-
-
-The following **optional** features are implemented:
-
 - [ x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
