@@ -28,8 +28,6 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright 2024 Anh Thuc Vu
