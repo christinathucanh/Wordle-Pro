@@ -1,6 +1,6 @@
-# Project 2 - *Wordle*
+# Project 2 - *Wordle Pro*
 
-Submitted by: **Anh Thuc Vu**
+Author: **Anh Thuc Vu**
 
 **Wordle** is an app that generates and plays with words. 
 
